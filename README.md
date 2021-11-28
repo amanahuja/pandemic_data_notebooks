@@ -21,6 +21,9 @@ Python packages and libraries
 
 Information about data sources is provided in each notebook. 
 
+## Bugs and contributions
+
+MIT license. Use however you want. PRs welcome. Not actively maintained. Submit bugs, questions and requests as issues, please. 
 
 ## References
 
