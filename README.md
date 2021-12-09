@@ -15,7 +15,7 @@ These are python Jupyter notebooks. You can use Jupyter Lab, Google Colab, or si
 Python packages and libraries
 * Basic stuff: Python core libraries, pandas. 
 * I try to use limit requirements to those packages included in Anaconda. 
-* For visualizations, I use altair, bokeh, or seaborn. 
+* For visualizations, I use plotly. 
 
 ## Data sets
 
